@@ -1,0 +1,14 @@
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\bin\Debug\netcoreapp2.1\JwrtAuthentication.deps.json
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\bin\Debug\netcoreapp2.1\JwrtAuthentication.runtimeconfig.json
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\bin\Debug\netcoreapp2.1\JwrtAuthentication.runtimeconfig.dev.json
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\bin\Debug\netcoreapp2.1\JwrtAuthentication.dll
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\bin\Debug\netcoreapp2.1\JwrtAuthentication.pdb
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.RazorAssemblyInfo.cache
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.RazorAssemblyInfo.cs
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.AssemblyInfo.cs
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.dll
+C:\Users\Code\source\repos\JwrtAuthentication\JwrtAuthentication\obj\Debug\netcoreapp2.1\JwrtAuthentication.pdb
